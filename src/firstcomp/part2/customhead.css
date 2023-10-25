@@ -1,0 +1,18 @@
+.firstcomp-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+
+   
+}
+
+.firstcomp-ul{
+    list-style: none;
+    display: flex;
+    font-size: 12px;
+}
+
+.firstcomp-ul li{
+    margin:0 5px ;
+}

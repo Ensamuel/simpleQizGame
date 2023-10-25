@@ -1,0 +1,16 @@
+.secondComp-body{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    height: 250px;
+   
+}
+
+.secondComp-head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.secondComp-head p{
+    font-size: 12px;
+}

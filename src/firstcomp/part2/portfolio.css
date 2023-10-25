@@ -1,0 +1,39 @@
+.portfolio-value-div{
+    line-height: 0;
+   margin-bottom: 20px;
+    font-size: 12px;
+    
+}
+
+.portfolio-digit{
+    font-size: 15px;
+}
+
+.portfolio-increase{
+    color: aqua;
+    font-weight: bold;
+    
+}
+
+.box-port{
+    background-color: blue;
+    color: blue;
+    font-size: 10px;
+}
+
+.box-doll{
+    background-color: aqua;
+    color: aqua;
+    font-size: 10px;
+}
+
+.box-etfs{
+    background-color: red;
+    color: red;
+    font-size: 10px;
+}
+
+.pdetf{
+    font-size: 12px;
+    line-height: 0;
+}

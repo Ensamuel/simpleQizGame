@@ -1,0 +1,14 @@
+.table-head{
+    font-size: 12px;
+}
+
+table {
+    border-collapse: separate; /* This makes sure the spacing is applied */
+    border-spacing: 10px; /* Adjust the value to control the spacing between rows */
+    text-align: right;
+  }
+  
+
+.table-rows{
+    font-size: 12px;
+}

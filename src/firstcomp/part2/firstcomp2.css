@@ -1,0 +1,11 @@
+.firstcomp2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.first-comp-2{
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+}

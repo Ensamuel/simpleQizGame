@@ -1,0 +1,39 @@
+
+.nav-head{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin-bottom: 30px;
+    justify-content: right;
+    padding-top: 20px;
+}
+
+
+.nav-head>li{
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+}
+.nav-head-end{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 20px;
+}
+
+
+.nav-add{
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.nav-notif{
+    font-size: 15px;
+    margin: 0 10px;
+}
+
+.nav-head-end select{
+    border: none;
+    background-color: lightgray;
+    font-size: 10px;
+}

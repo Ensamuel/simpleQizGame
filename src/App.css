@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+}
+
+.app-page{
+    display: flex;
+}
+
+.sidenav-app{
+    margin-right: 40px;
+}
+
+
+.full-app1{
+    background-color: lightgray;
+    border-radius: 0 50px 0 50px;
+}

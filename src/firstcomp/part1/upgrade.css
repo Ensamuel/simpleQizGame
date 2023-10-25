@@ -1,0 +1,54 @@
+.upgrade-vector {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    position: relative;
+    
+}
+
+.upgrade-image{
+    position: absolute;
+    bottom: 200;
+}
+
+.upgrade {
+    border-radius: 10px;
+    width: 250px;
+    background-color: white;
+    height: 200px;
+}
+
+.upgrade-acct {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+}
+
+
+
+.upgrade-text {
+    font-size: 12px;
+    position: relative;
+    z-index: 1;
+    float: right;
+    clear: both;
+    margin-right: 20px;
+}
+
+.upgrade-vector img {
+    height: 150px;
+    width: 150px;
+   
+}
+
+.upgrade-text-arrow{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    
+}
+
+.upgrade-arrow{
+    text-align: right;
+    font-size: 30px;
+}

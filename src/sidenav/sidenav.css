@@ -1,0 +1,49 @@
+.sidenav-user{
+    display: flex;
+    align-items: center; 
+    margin-bottom: 70px;
+}
+
+.user-profile{
+    line-height: 0;
+}
+
+.sidenav-dashboard{
+    display: flex;
+    align-items: center;
+   
+}
+
+.sidenav-dashboard p, .sidenav-logout p{
+    margin-left: 20px;
+   
+}
+
+.sidenav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;    
+}
+
+.user-profile-name{
+    font-size: 14px;
+}
+
+.user-profile-email{
+    font-size: 11px;
+}
+
+.sidenav-nav{
+    margin-bottom: 200px;
+}
+
+.sidenav-logout{
+   margin-top: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.sidenav-logout-btn{
+    transform: rotate(270deg);
+    transform-origin: center; 
+}
