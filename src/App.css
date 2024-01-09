@@ -1,17 +1,52 @@
-*{
-    font-family: sans-serif;
+
+/**homepage*/
+.home-page{
+    height: 100%;
+    margin-top:250px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
-.app-page{
+
+/* ReadyPage*/
+
+.ready-benjamin{
+    text-align: center;
+}
+
+.ready-buttons{
     display: flex;
+    justify-content: center;
 }
 
-.sidenav-app{
-    margin-right: 40px;
+.ready-buttons button{
+    margin: 20px;
+    font-size: 20px;
 }
 
 
-.full-app1{
-    background-color: lightgray;
-    border-radius: 0 50px 0 50px;
+/* yes*/
+
+.yes-body{
+    text-align: center;
+    margin-top: 50px;
 }
+
+
+/* question1*/
+.qst1-btns, .qst2-btns, .qst3-btns{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.qst1-btns button, .qst2-btns button, .qst3-btns button{
+    margin: 5px;
+    width: 200px;
+}
+
+.qst1, .qst2, .qst3{
+    text-align: center;
+    margin-top: 250px;
+}
+
